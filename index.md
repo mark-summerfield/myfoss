@@ -5,7 +5,7 @@ In addition to FOSS I also have commecial PDF comparison products, [DiffPDF for 
 ### Gravitate Game
 
 A SameGame/TileFall-like game written in
-[C++/wxWidgets — *newest and best*](https://github.com/mark-summerfield/gravitate-wx),
+[C++/wxWidgets *(newest and best)*](https://github.com/mark-summerfield/gravitate-wx),
 [D/GtkD](https://github.com/mark-summerfield/gravitate-d),
 Java/Swing,
 [Nim/NiGui](https://github.com/mark-summerfield/gravitate-nim),
