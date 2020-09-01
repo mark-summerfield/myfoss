@@ -20,9 +20,13 @@ In addition to the source, Windows binaries are available for the C++/wxWidgets 
 
 [XindeX](https://github.com/mark-summerfield/xindex) is an easy to learn and use GUI application for creating, editing, and outputting indexes (e.g., for books).
 
+This has been tested on Windows and Linux and is written in Python 3 (>=3.6) using PySide 1 (Qt 4.8).
+
 ### Retest
 
 [Retest](https://www.qtrac.eu/retest.html) makes it simple to automate black box regression testing on Windows and Unix.
+
+This is provided as a stand-alone executable and as a Rust library.
 
 ### Diff Libraries
 
