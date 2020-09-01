@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to My Free Open Source Software
 
-You can use the [editor on GitHub](https://github.com/mark-summerfield/myfoss/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In addition to FOSS I also have commecial PDF comparison products, [DiffPDF for Windows](https://www.qtrac.eu/diffpdf.html) an easy-to-use GUI application, and [comparepdfcmd for Windows](https://www.qtrac.eu/comparepdfcmd.html) a command line/console tool ideal for scripting and testing use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Gravitate Game
 
-### Markdown
+A SameGame/TileFall-like game written in
+[C++/wxWidgets — *newest and best*](https://github.com/mark-summerfield/gravitate-wx),
+[D/GtkD](https://github.com/mark-summerfield/gravitate-d),
+Java/Swing,
+[Nim/NiGui](https://github.com/mark-summerfield/gravitate-nim),
+Python/Tkinter,
+Python/wxPython,
+and JavaScript.
+All the versions without github links can be downloaded from [Qtrac](http://www.qtrac.eu/gravitate.html).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In addition to the source, Windows binaries are available for the C++/wxWidgets and Nim/NiGui versions.
 
-```markdown
-Syntax highlighted code block
+### XindeX
 
-# Header 1
-## Header 2
-### Header 3
+[XindeX](https://github.com/mark-summerfield/xindex) is an easy to learn and use GUI application for creating, editing, and outputting indexes (e.g., for books).
 
-- Bulleted
-- List
+### Retest
 
-1. Numbered
-2. List
+[Retest](https://www.qtrac.eu/retest.html) makes it simple to automate black box regression testing on Windows and Unix.
 
-**Bold** and _Italic_ and `Code` text
+### Diff Libraries
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mark-summerfield/myfoss/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Python standard library includes the `difflib` module which has an excellent sequence matcher to find and report the differences between two sequences (e.g., between two sequences of lines). I've ported a version of this functionality to
+[D as `ddiff`](https://github.com/mark-summerfield/ddiff),
+[Nim as `diff`](https://github.com/mark-summerfield/diff), and
+[Rust as `Differ`](https://github.com/mark-summerfield/differ).
