@@ -2,8 +2,13 @@ In addition to FOSS I also have commecial PDF comparison products, [DiffPDF for 
 
 ### Gravitate Game
 
-A SameGame/TileFall-like game written in
-[C++/wxWidgets *(newest and best)*](https://github.com/mark-summerfield/gravitate-wx),
+A SameGame/TileFall-like game.
+
+[Windows 64-bit binary 3.5MB .zip](https://github.com/mark-summerfield/gravitate-wx/blob/master/Gravitate.zip).
+
+The Windows binary is for the
+[C++/wxWidgets *(newest and best version)*](https://github.com/mark-summerfield/gravitate-wx).
+However, I've also done versions using:
 [D/GtkD](https://github.com/mark-summerfield/gravitate-d),
 Java/Swing,
 [Nim/NiGui](https://github.com/mark-summerfield/gravitate-nim),
@@ -22,9 +27,11 @@ This has been tested on Windows and Linux and is written in Python 3 (>=3.6) usi
 
 ### Retest
 
-[Retest](https://www.qtrac.eu/retest.html) makes it simple to automate black box regression testing on Windows and Unix.
+An easy to use application (and Rust library) for automating black box regression testing on Windows and Unix.
 
-This is provided as a stand-alone executable and as a Rust library.
+[Windows 64-bit binary 3.5MB .zip](https://www.qtrac.eu/retest-4.0.6.zip).
+
+The source code, documentation, Windows binary, and Unix tarball, are available from the [Retest home page](https://www.qtrac.eu/retest.html).
 
 ### Diff Libraries
 
