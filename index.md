@@ -1,4 +1,6 @@
-In addition to FOSS I also have commecial PDF comparison products: [DiffPDF for Windows](https://www.qtrac.eu/diffpdf.html) an easy-to-use GUI application, and [comparepdfcmd for Windows](https://www.qtrac.eu/comparepdfcmd.html) a command line/console tool ideal for scripting and testing use.
+In addition to FOSS I also have commecial PDF comparison products:   
+[DiffPDF for Windows](https://www.qtrac.eu/diffpdf.html) an easy-to-use GUI application, and   
+[comparepdfcmd for Windows](https://www.qtrac.eu/comparepdfcmd.html) a command line/console tool ideal for scripting and testing use.
 
 ### Gravitate Game
 
@@ -25,7 +27,7 @@ This has been tested on Windows and Linux and is written in Python 3 (>=3.6) usi
 ### Retest
 
 [Retest](https://www.qtrac.eu/retest.html) is an easy to use application (and Rust library) for automating black box regression testing on Windows and Unix.
-([Windows 64-bit binary 3.6MB .zip](https://www.qtrac.eu/retest-4.0.6.zip).)
+([Windows 64-bit binary 905KB .zip](https://www.qtrac.eu/retest-4.0.6.zip).)
 
 ### Diff Libraries
 
