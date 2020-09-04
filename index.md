@@ -9,7 +9,7 @@ A SameGame/TileFall-like game.
 
 The Windows binary is for the
 [C++/wxWidgets *(newest and best version)*](https://github.com/mark-summerfield/gravitate-wx).
-However, I've also done versions using:
+However, I've also done versions using
 [D/GtkD](https://github.com/mark-summerfield/gravitate-d),
 Java/Swing,
 [Nim/NiGui](https://github.com/mark-summerfield/gravitate-nim),
