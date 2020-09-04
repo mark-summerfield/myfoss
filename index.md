@@ -1,6 +1,6 @@
-In addition to FOSS I also have commecial PDF comparison products:   
-[DiffPDF for Windows](https://www.qtrac.eu/diffpdf.html) an easy-to-use GUI application, and   
-[comparepdfcmd for Windows](https://www.qtrac.eu/comparepdfcmd.html) a command line/console tool ideal for scripting and testing use.
+In addition to FOSS I also have commecial PDF comparison products:
+- [DiffPDF for Windows](https://www.qtrac.eu/diffpdf.html) an easy-to-use GUI application, and
+- [comparepdfcmd for Windows](https://www.qtrac.eu/comparepdfcmd.html) a command line/console tool ideal for scripting and testing use.
 
 ### Gravitate Game
 
@@ -16,7 +16,7 @@ Java/Swing,
 Python/Tkinter,
 Python/wxPython,
 and JavaScript.
-All the versions without github links can be downloaded from [Qtrac](http://www.qtrac.eu/gravitate.html).
+All the versions _without_ github links can be downloaded from [Qtrac](http://www.qtrac.eu/gravitate.html).
 
 ### XindeX
 
