@@ -5,14 +5,15 @@ In addition to FOSS I have commercial PDF comparison products, in particular:
 ### Gravitate Game
 
 A SameGame/TileFall-like game.
-([Windows 64-bit binary 3.5MB .zip](https://github.com/mark-summerfield/gravitate-wx/blob/master/Gravitate.zip).)
+([Windows binary 12MB](https://github.com/mark-summerfield/gravitate-tcl/blob/master/gravitate.exe).)
 
 The Windows binary is for the
-[C++/wxWidgets *(newest and best version)*](https://github.com/mark-summerfield/gravitate-wx).
+[Tcl/Tk *(newest and best version)*](https://github.com/mark-summerfield/gravitate-tcl).
 However, I've also done versions using
+[C++/wxWidgets](https://github.com/mark-summerfield/gravitate-wx) (Windows 64-bit binary available).
 [D/GtkD](https://github.com/mark-summerfield/gravitate-d),
 Java/Swing,
-[Nim/NiGui](https://github.com/mark-summerfield/gravitate-nim),
+[Nim/NiGui](https://github.com/mark-summerfield/gravitate-nim) (Windows binary available),
 Python/Tkinter,
 Python/wxPython,
 and JavaScript.
