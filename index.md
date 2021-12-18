@@ -7,6 +7,7 @@ In addition to FOSS I have commercial PDF comparison products, in particular:
 A SameGame/TileFall-like game written in [Rust/FLTK](https://github.com/mark-summerfield/gravitate-rs).
 This is the best of all the other versions created using other languages and GUI libraries.
 The repo includes a 1.9MB Windows binary (64-bit only).
+The source can be used to build on Linux and on Windows (32- or 64-bit).
 
 ### XindeX
 
