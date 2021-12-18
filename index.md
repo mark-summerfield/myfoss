@@ -4,20 +4,9 @@ In addition to FOSS I have commercial PDF comparison products, in particular:
 
 ### Gravitate Game
 
-A SameGame/TileFall-like game.
-([Windows binary 12MB](https://github.com/mark-summerfield/gravitate-tcl/blob/master/gravitate.exe).)
-
-The Windows binary is for the
-[Tcl/Tk *(newest and best version)*](https://github.com/mark-summerfield/gravitate-tcl).
-However, I've also done versions using
-[C++/wxWidgets](https://github.com/mark-summerfield/gravitate-wx) (Windows 64-bit binary available).
-[D/GtkD](https://github.com/mark-summerfield/gravitate-d),
-Java/Swing,
-[Nim/NiGui](https://github.com/mark-summerfield/gravitate-nim) (Windows binary available),
-Python/Tkinter,
-Python/wxPython,
-and JavaScript.
-All the versions _without_ github links can be downloaded from [Qtrac](http://www.qtrac.eu/gravitate.html).
+A SameGame/TileFall-like game written in [Rust/FLTK](https://github.com/mark-summerfield/gravitate-rs).
+This is the best of all the other versions created using other languages and GUI libraries.
+The repo includes a 1.9MB Windows binary (64-bit only).
 
 ### XindeX
 
@@ -35,4 +24,4 @@ This has been tested on Windows and Linux and is written in Python 3 (>=3.6) usi
 The Python standard library includes the `difflib` module which has an excellent sequence matcher to find and report the differences between two sequences (e.g., between two sequences of lines). I've ported a version of this functionality to
 [D as `ddiff`](https://github.com/mark-summerfield/ddiff),
 [Nim as `diff`](https://github.com/mark-summerfield/diff), and
-[Rust as `Differ`](https://github.com/mark-summerfield/differ).
+[Rust as `Differ`](https://github.com/mark-summerfield/differ). Only the Rust version is (passively) maintained.
