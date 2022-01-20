@@ -9,11 +9,17 @@ I have created versions of this game in many different languages using various G
 The repo includes a 1.9MB Windows binary (64-bit).
 The source can be used to build on Linux and on Windows (32- or 64-bit).
 
-### AMP “Another Music Player”
+### AMP 
+[“Another Music Player”](https://github.com/mark-summerfield/amp-rs)
 This provides a basic but useful example of Rust/FLTK andthe Soloud sound library.
 It should be especially handy for audio books since at startup it restores
 the last played track at the exact position it had reached.
 The repo includes a 2.5MB Windows binary (64-bit).
+The source can be used to build on Linux and on Windows (32- or 64-bit).
+
+### CharFind
+[CharFind](https://github.com/mark-summerfield/charfind) is an application for finding Unicode characters.
+The repo includes a 1.9MB Windows binary (64-bit).
 The source can be used to build on Linux and on Windows (32- or 64-bit).
 
 ### XindeX
