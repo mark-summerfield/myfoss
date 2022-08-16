@@ -2,6 +2,12 @@ In addition to FOSS I have commercial PDF comparison products, in particular:
 - [DiffPDF for Windows](https://www.qtrac.eu/diffpdf.html) an easy-to-use GUI application, and
 - [comparepdfcmd for Windows](https://www.qtrac.eu/comparepdfcmd.html) a command line/console tool ideal for scripting and testing use.
 
+### UXF (Uniform eXchange Format)
+
+[UXF](https://github.com/mark-summerfield/uxf) is a plain text human readable optionally typed storage format. UXF is designed to make life easier for software developers and data designers. It directly competes with csv, ini, json, toml, and yaml formats. One key advantage of UXF is that it supports custom (i.e., user-defined) types. This can result in more compact, more readable, and easier to parse data. And in some contexts it may prove to be a convenient alternative to sqlite or xml. A <a
+href="https://github.com/mark-summerfield/uxf/blob/main/py/README.md">Python
+library</a> is available; other languages are in the works.
+
 ### Gravitate Game
 
 [Gravitate](https://github.com/mark-summerfield/gravitate-rs) is a SameGame/TileFall-like game.
