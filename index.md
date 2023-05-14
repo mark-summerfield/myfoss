@@ -4,8 +4,7 @@ In addition to FOSS I have commercial PDF comparison products, in particular:
 
 ### Go Tools
 
-- [gaccelhints](https://github.com/mark-summerfield/gaccelhints) is a Gtk-based GUI tool for generating keyboard accelerators for a list of strings (e.g., menu items or dialog buttons and labels). It uses the [accelhint](https://github.com/mark-summerfield/accelhint) library.
-- [minicalc](https://github.com/mark-summerfield/minicalc) is an FLTK-based GUI tool that provides an evaluating calculator, a Go regex tester, and some static data (e.g., ASCII codes).
+- [minicalc](https://github.com/mark-summerfield/minicalc) is an FLTK-based GUI tool that provides an evaluating calculator, a Go regex tester, length conversions, keyboard accelerator hints generator for GUI applications, and some static data (e.g., ASCII codes).
 - [sfind](https://github.com/mark-summerfield/sfind) is a file find command line tool (like Unix's `find` but _much_ easier to use because it has _much less_ functionality). I find it sufficient as a complete `find` replacement.
 - [unz](https://github.com/mark-summerfield/unz) an archive unpacking command line tool that never creates more than one file or folder in the current folder. If the archive contains multiple files or folders unz creates a subfolder to contain them all.
 
