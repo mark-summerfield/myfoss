@@ -66,3 +66,7 @@ The Python standard library includes the `difflib` module which has an excellent
 [Nim as `diff`](https://github.com/mark-summerfield/diff),
 [Rust as `Differ`](https://github.com/mark-summerfield/differ) and
 [Go as `go-diff`](https://github.com/mark-summerfield/go-diff). Only the Go version is (passively) maintained.
+
+### Other tools and libraries
+
+See [Qtrac website](https://www.qtrac.eu/sitemap.html) for these and other tools and libraries.
