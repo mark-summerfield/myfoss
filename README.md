@@ -1,4 +1,4 @@
-# Mark Summerfield
+# Mark Summerfield &mdash; Qtrac
 
 **In view of the EU’s Cyber Resilience Act and an abundance of caution, I
 have withdrawn all my free software (see
