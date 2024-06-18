@@ -35,3 +35,5 @@ unattractive.
 Overall, the CRA is bad news for European software innovation and will
 ensure that Europe lags even further behind the US and elsewhere in
 years to come.
+
+[Home](index.md)
