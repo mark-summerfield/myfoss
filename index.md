@@ -3,5 +3,4 @@ Our commercial PDF comparison products are:
 - [comparepdfcmd for Windows](https://www.qtrac.eu/comparepdfcmd.html) a command line/console tool ideal for scripting and testing use.
 
 **In view of the EU’s Cyber Resilience Act and an abundance of caution, we
-have withdrawn all our free software (see
-[EU CRA](https://en.wikipedia.org/wiki/Cyber_Resilience_Act#Criticism)).**
+have withdrawn all our free software (see [EU CRA](europe.md)).**
