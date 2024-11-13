@@ -1,10 +1,10 @@
 ### The EU's Cyber Resilience Act (CRA)
 
-Early in 2024 when we were still selling our commercial software, we restricted its sale or resale to in the US and most countries _outside Europe_. We explain why below.
+Early in 2024 when we were still selling our commercial software, we restricted its sale or resale to the US and most countries _outside Europe_. We explain why below.
 
 The EU's Cyber Resilience Act (CRA) became law in 2024 and allows a three year grace period for compliance.
 
-We believe that it is impossible for a small business such as ours to achieve compliance with the Act.
+We believe that it is impossible for a small business such as ours was to achieve compliance with the Act.
 
 In view of this we stopped selling our software into any country which adopts the CRA or a local equivalent. This includes all EU and EEA countries, EU candidate countries, and some others with access to the single market such as Switzerland and the UK (where we were based).
 
