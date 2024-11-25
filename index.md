@@ -6,4 +6,4 @@ On 25th October 2024, after 18 years in business, Qtrac ceased trading, a victim
 
 For many years we also produced a wide variety of free open source software, mostly small libraries and utilities created using many different programming languages. However, In view of the EU’s Cyber Resilience Act (CRA) and an abundance of caution, we have withdrawn all our free software. See our [comments on the CRA](europe.md).
 
-Nowadays we write software for our own use and also contribute to other people's open source software projects, code, documentation, or both.
+Nowadays we write software for our own use and sometimes also contribute to other people's open source software projects. I am also trying to create [indexes into every 20th Century issue of Personal Computer World magazine](https://mark-summerfield.github.io/pcw/).
