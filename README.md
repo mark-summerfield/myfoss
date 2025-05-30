@@ -1,2 +1,1 @@
-**In view of the EU’s Cyber Resilience Act and an abundance of caution, we
-have withdrawn all ou free software (see [EU CRA](europe.md)).**
+[My free software](https://mark-summerfield.github.io/sitemap.html)
